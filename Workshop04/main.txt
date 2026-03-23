@@ -9,6 +9,8 @@ Psuedo code starts below:
 // Instantiate high level and set clock frequency
 set CLOCK to 50 Hz
 
+//polling task has been fixed 
+
 // polling task has been fixed 
 
 // Complete some polling task
