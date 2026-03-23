@@ -2,7 +2,7 @@ module top_level (
 	/* Add your inputs here */
 	
 	// Clock
-		
+		input clock_50
 	// Keys
 		
 	// Leds
@@ -12,7 +12,7 @@ module top_level (
 );
 
     nios_system u0 (
-        .clk_clk       (/* Connect the clock */),       
+        .clk_clk       (clock_50),       
         .reset_reset_n (/* Connect a Key for reset */), 
         .ledr_export   (/* Connect all LEDs */),   
         .sw_export     (/* Connect all Switches */)      
