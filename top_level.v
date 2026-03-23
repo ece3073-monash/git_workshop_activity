@@ -11,7 +11,7 @@ module top_level (
 		input [9:0]SW
 );
 
-    nios_system u0 (
+    nios_system u0 (//test2
         .clk_clk       (CLOCK_50),       
         .reset_reset_n (KEY[0]), 
         .ledr_export   (LEDR),   
