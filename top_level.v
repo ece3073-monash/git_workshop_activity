@@ -2,7 +2,7 @@ module top_level (
 	/* Add your inputs here */
 	
 	// Clock
-		
+	input CLOCK_50	
 	// Keys
 		
 	// Leds
