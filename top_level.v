@@ -1,7 +1,7 @@
 module top_level (
 	/* Add your inputs here */
-	
-	// Clock
+	//test comment
+	// Clock altering
 		input CLOCK_50,
 	// Keys
 		input [1:0]KEY,
