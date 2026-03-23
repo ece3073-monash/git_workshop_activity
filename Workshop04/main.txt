@@ -1,0 +1,18 @@
+We'll use this text file as a substitute for actual code.
+
+This will be used as a way to show features, branching, and merging back to main.
+
+Psuedo code starts below:
+
+-----
+
+// Instantiate high level and set clock frequency
+set CLOCK to 100 Hz
+
+// Complete some polling task
+
+// TODO: Aaron to fix polling task, please delete this comment when fixed
+my name is aaron, i have made some fancy code here what do u think
+woops the part above wasn't meant to be committed yet
+
+// TODO: Ben's feature to be added below, please delete this comment when added
