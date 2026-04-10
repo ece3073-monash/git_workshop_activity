@@ -13,6 +13,7 @@ set CLOCK to 50 Hz
 
 // Complete some polling task
 
+polling task completed
 
 << Polling task >> // Aaron completed polling task
 
